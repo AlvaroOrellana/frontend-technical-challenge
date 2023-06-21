@@ -19,6 +19,7 @@
     "paths": {
       "@Assets/*": ["assets/*"],
       "@Components/*": ["components/*"],
+      "@Constants/*": ["constants/*"],
       "@Hooks/*": ["hooks/*"],
       "@Utils/*": ["utils/*"],
       "@Views/*": ["views/*"]
